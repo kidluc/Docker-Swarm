@@ -6,7 +6,7 @@
 - Khi khởi chạy Docker swarm mode, người dùng sẽ sử dụng dịch vụ orchestration của Docker.
 - Docker Swarm quản lý các Docker Engine ở chế độ swarm, các Docker Engine có thể được đưa vào những swarm mới hoặc join vào các swarm có sẵn.
 - Docker swarm có những tính năng để hỗ trợ việc quản lý các container khi chạy trên môi trường phân tán và để chắc chắn các container trong một cluster hoạt động ổn định.
-- Docker Swarm có khả năng khởi chạy các container trên nhiều máy (cluster) hoặc trên một máy duy nhsất (standalone)
+- Docker Swarm có khả năng khởi chạy các container trên nhiều máy (cluster) hoặc trên một máy duy nhất (standalone)
 
 1.2, Các node trong swarm là gì ? Cách thức làm việc của các node.
 
